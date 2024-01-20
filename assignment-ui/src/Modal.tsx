@@ -6,6 +6,7 @@ import {
   DialogHeader,
   DialogTrigger,
 } from "./ui/dialog";
+import "./output.css";
 
 const Modal = ({ open, setOpen, children }) => {
   return (
